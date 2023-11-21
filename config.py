@@ -6,8 +6,8 @@ START_DATE = date(2020, 1, 1)
 END_DATE = date(2023, 7, 31)
 
 # set to "metric" or "imperial"
-UNIT_SYSTEM = "metric"
-# UNIT_SYSTEM = "imperial"
+#UNIT_SYSTEM = "metric"
+UNIT_SYSTEM = "imperial"
 
 # Automatically find first date where data is logged
 FIND_FIRST_DATE = True
