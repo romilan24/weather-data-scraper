@@ -1,4 +1,4 @@
-https://www.wunderground.com/dashboard/pws/KCAELSEG33
-https://www.wunderground.com/dashboard/pws/KCARIVER252
-https://www.wunderground.com/dashboard/pws/KCAIRVIN204
-https://www.wunderground.com/dashboard/pws/KCALONGB176
+https://www.wunderground.com/dashboard/pws/KCAELSEG23
+https://www.wunderground.com/dashboard/pws/KCARIVER94
+https://www.wunderground.com/dashboard/pws/KCANEWPO185
+https://www.wunderground.com/dashboard/pws/KCALONGB31
